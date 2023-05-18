@@ -1,0 +1,159 @@
+console.log(tt[1].[1]);
+console.log(parseInt(tz));
+console.log(parseIn(tz));
+console.log(parseInt(tz[5]));
+console.log(tz[5]);
+console.log(tz[5].value);
+console.log(tz[1].value);
+console.log(tz[1]);
+console.log(tz);
+const tz = await contract.walletOf();
+const ta = await contract.walletOf();
+const ta = await contrat.walletOf();
+console.log(tt[1][0])
+console.log(tt[0][0])
+console.log(tt[0][0].value)
+console.log(tt)
+const tt = contract.walletOf();
+console.log(parseInt(tt[0].value))
+console.log(tt[0].value)
+console.log(tt[2].value)
+console.log(parseInt(tt[2]));
+console.log(tt[2]);
+console.log(await contract.walletOf())
+console.log(tt[2]);
+console.log(await contract.walletOf())
+console.log(contract.walletOf())
+console.log(const tt = contract.walletOf())
+console.log(tt)
+console.log(tt.[0])
+console.log(tt[0])
+console.log(tt)
+const tt = contract.walletOf();
+contract.walletOf();
+const contract = await MyContract.attach("0x57486F298e2aC833d356B62dB90B5395CBB57A78");
+const MyContract = await ethers.getContractFactory("MetaMindGames");
+const mmg = await MyContract.attach("0x57486F298e2aC833d356B62dB90B5395CBB57A78");
+const mmg = await MyContract.attach("0xc61E15DAA65dD640C8500c7f41950808aE889bA6");
+const contract = await MyContract.attach("0xc61E15DAA65dD640C8500c7f41950808aE889bA6");
+const MyContract = await ethers.getContractFactory("MetaMindGames");
+const contract = await MyContract.attach("0xc61E15DAA65dD640C8500c7f41950808aE889bA6");
+await contract.withdraw();
+await contract.mint(1);
+await contract.setStep(4);
+await contract.setTokenUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/");
+contract.setTokenUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/");
+const contract = await MyContract.attach("0xe397174731bF556B2E68DF04879DC06D9Fff3EB9");
+const MyContract = await ethers.getContractFactory("MetaMindGames");
+const MyContract = await ethers.getContractFactory("MetaMingGames");
+await mmg.setPlaceHolderUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/");
+const mmg = await MMG.deploy(["0xee025afac936bf05e7dc21c7ef2e5f4ff06d1b6b","0xCe951972eb897E8FcD13eFb8c5d8cF84d856d167"],[50,50]);
+const MMG = await ethers.getContractFactory('MetaMindGames');
+const mmg = await MMG.deploy(["0xee025afac936bf05e7dc21c7ef2e5f4ff06d1b6b","0xCe951972eb897E8FcD13eFb8c5d8cF84d856d167"],[50,50]);
+const mmg = await MMG.deploy([],[]);
+const MMG = await ethers.getContractFactory('MetaMindGames');
+console.log(mmg);
+await mmg.setPlaceHolderUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/");
+const mmg = await MMG.deploy([],[]);
+const mmg = await MMG.deploy();
+const MMG = await ethers.getContractFactory('MetaMindGames');
+await mmg.setPlaceHolderUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/45.json");
+await mmg.setPlaceholderUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/45.json");
+await mmg.setPlaceholderTokenUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/45.json");
+await mmg.placeholderTokenUri("ipfs://bafybeia6vc2wyek3ncmu7iftn7r7srsyp5ndfwzauomuzpu42tyzgc5n7i/45.json");
+await mmg.gen1Mint(["0xcc03aac5556959481c8ad8576a83621731414fc97388e6c47fc9d5905a726166","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.setStep(1)
+await mmg.connect(adr1).gen2Mint(["0xb3f43cbc4323b4a1d209f34a3befaefdc25f2e0c382f631a70275776698d3fe0","0xb9018f6aa75eee0136e431365c7b3346065dff9a8a2b79ac3cdcebe53460a173"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.setStep(2)
+await mmg.connect(adr1).gen2Mint(["0xb3f43cbc4323b4a1d209f34a3befaefdc25f2e0c382f631a70275776698d3fe0","0xb9018f6aa75eee0136e431365c7b3346065dff9a8a2b79ac3cdcebe53460a173"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.connect(adr1).gen1Mint(["0xb3f43cbc4323b4a1d209f34a3befaefdc25f2e0c382f631a70275776698d3fe0","0xb9018f6aa75eee0136e431365c7b3346065dff9a8a2b79ac3cdcebe53460a173"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.connect(adr1).gen1Mint(["0xb3f43cbc4323b4a1d209f34a3befaefdc25f2e0c382f631a70275776698d3fe0","0xb9018f6aa75eee0136e431365c7b3346065dff9a8a2b79ac3cdcebe53460a172"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.connect(adr4).gen1Mint(["0xbbebd050a3b5712848f7bafd0b5758fd872ec34fd9d70abb2dd0bfee60317e1c","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f"],1,{value:ethers.utils.parseEther("0.1")});
+await mmg.connect(adr4).gen1Mint(["0xbbebd050a3b5712848f7bafd0b5758fd872ec34fd9d70abb2dd0bfee60317e1c","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f"],1),{value:ethers.utils.parseEther("0.1")});
+await mmg.connect(adr4).gen1Mint(["0xbbebd050a3b5712848f7bafd0b5758fd872ec34fd9d70abb2dd0bfee60317e1c","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f"],1);
+await mmg.setStep(1)
+await mmg.connect(adr4).gen1Mint(["0xbbebd050a3b5712848f7bafd0b5758fd872ec34fd9d70abb2dd0bfee60317e1c","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f"],1);
+await mmg.connect(adr4).gen1Mint("0xbbebd050a3b5712848f7bafd0b5758fd872ec34fd9d70abb2dd0bfee60317e1c","0x46f85bbc6a940683319e67a234b2ef47a4fc2341f1686bb63113a5559a93b69f",1);
+await mmg.setStep(4)
+await mmg.setGen1MerkleRoot("0x40dc688d1d91a637f4c07605d4ba97224735e33e7dd13d9b53bc38fb7928e2b5");
+mmg.setGen1MerkleRoot("0x40dc688d1d91a637f4c07605d4ba97224735e33e7dd13d9b53bc38fb7928e2b5");
+mmg.setGen1MerkleRoot(0x40dc688d1d91a637f4c07605d4ba97224735e33e7dd13d9b53bc38fb7928e2b5);
+const mmg = await MMG.attach('0xe397174731bF556B2E68DF04879DC06D9Fff3EB9');
+const MMG  = await ethers.getContractFactory('MetaMindGames');
+await mmg.mint(1);
+console.log(adr4)
+console.log(adr1)
+const [owner,adr1,adr2,adr3,adr4] = await ethers.getSigners();
+console.log(adr1)
+await mmg.connect(adr1).gen1Mint(args,1);
+await network.provider.send("hardhat_setBalance", [adr4,"0x1000","# 4096 wei"]);
+await network.provider.send("hardhat_setBalance", [adr4,"0x1000",#4096 wei]);
+await network.provider.send("hardhat_setBalance", [adr4,"0x1000",# 4096 wei]);
+  "0x1000", # 4096 wei
+  "<ACCOUNT ADDRESS>",
+await network.provider.send("hardhat_setBalance", [
+await mmg.connect(adr1).gen1Mint(args,1);
+console.log(adr1)
+console.log(owner)
+const [owner,adr1,adr2,adr3,adr4] = await ethers.getSigners();
+await mmg.connect(accounts1[1]).gen1Mint(args,1);
+console.log(accounts1)
+console.log(args);
+await mmg.connect('0xD62B567338b4CEAC55e788F894a76D9D339dcf5e').gen1Mint(args,1);
+const args=["0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454"];
+const args={"0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454"};
+const args={'0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454'};
+const args={'0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454'}
+await mmg.connect('0xD62B567338b4CEAC55e788F894a76D9D339dcf5e').gen1Mint({0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454},1);
+await mmg.connect('0xD62B567338b4CEAC55e788F894a76D9D339dcf5e').gen1Mint({'0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454'},1);
+await mmg.connect({0xD62B567338b4CEAC55e788F894a76D9D339dcf5e}).gen1Mint('0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454',1);
+await mmg.connect({'0xD62B567338b4CEAC55e788F894a76D9D339dcf5e'}).gen1Mint('0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454',1);
+await mmg.connect('0xD62B567338b4CEAC55e788F894a76D9D339dcf5e').gen1Mint('0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454',1);
+await mmg.connect(0xD62B567338b4CEAC55e788F894a76D9D339dcf5e).gen1Mint('0x76c9edec34a7218464349ff3708f72fbaa1467fe4c74cfd05e92efa18aafa454',1);
+await mmg.setGen1MerkleRoot('0xea01b09f048c2c47d62ba390afcff5eb18d93941c6c109a01caf36950ea506e0')
+await mmg.setGen1MerkleRoot(0xea01b09f048c2c47d62ba390afcff5eb18d93941c6c109a01caf36950ea506e0);
+console.log(accounts1);
+const accounts1 = await ethers.provider.listAccounts();
+const accounts = await ethers.provider.listAccounts();
+console.log(accounts)
+const accounts = await ethers.provider.listAccounts
+await mmg.withdraw();
+console.log(Currentstep);
+console.log(mmg.Currentstep)
+await mmg.mint(3,{value:ethers.utils.parseEther("0.3")});
+await mmg.mint(3,{value:ethers.utils.parseEther("0.0005")});
+await mmg.mint(3,{value:ethers.utils.parseEther("1")});
+await mmg.mint(3,{value:ethers.utils.parseEther("0.9")});
+await mmg.mint(3,{value:ethers.utils.parseEther("0.5")});
+await mmg.mint(3,{value:ethers.utils.parseEther("0.4")});
+await mmg.mint(3,{value:ethers.utils.parseEther("0.3")});
+await mmg.mint(3,{value:1*10**18});
+await mmg.mint(3,{value:1ether});
+await mmg.mint(3,{value:1 ether});
+await mmg.mint(3,{value:1});
+await mmg.mint(3);
+await mmg.setStep(4);
+await mmg.withdraw();
+await mmg.tokenURI(1);
+await mmg.baseURI();
+mmg._baseURI();
+mmg.baseURI();
+await mmg.teamMint(3);
+await mmg.teamMint(10);
+const mmg = await MMG.attach('0xBC00Db75326d2c070A737A7664cccf080e8FD2AC');
+const MMG  = await ethers.getContractFactory('MetaMindGames');
+await mmg.teamMint(3);
+await mmg.teamMint(10);
+await teamMint(10);
+await mmg.gen1Mint(1);
+await mmg.gen1mint(1);
+await mmg.mint(1);
+const mmg = await MMG.attach('0xBC00Db75326d2c070A737A7664cccf080e8FD2AC');
+const MMG  = await ethers.getContractFactory('MetaMindGames');
+gld.balanceOf(0x5ddb727B4e1fdfc82b771700b2DAAB6d92ED8A08)
+console.log('GLD deployed to:', gld.address);
+await gld.deployed();
+const gld = await Gld.deploy(12);
+const Gld = await ethers.getContractFactory('GLDToken');
+GLDToken.balanceOf(0xBbab5b64f99372FC17E7a04ca2e1306fE91C7A3C)
+GLDToken.balanceOf(deployerAddress)
